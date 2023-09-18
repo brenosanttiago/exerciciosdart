@@ -1,0 +1,29 @@
+**Sequencial:**
+
+1. Escreva um programa que calcule a média de uma lista de números inseridos pelo usuário, onde a quantidade de números é desconhecida antecipadamente. Use um loop para ler os números até que o usuário insira um valor especial para encerrar a entrada.
+
+2. Crie um programa que gere uma sequência de números de Fibonacci até um limite definido pelo usuário. Permita que o usuário especifique o limite.
+
+**Decisão:**
+
+3. Implemente um jogo de pedra, papel e tesoura em que o usuário jogue contra o computador. Utilize funções e decisões para determinar o vencedor em cada rodada. O jogo deve continuar até que o usuário escolha sair.
+
+4. Desenvolva um programa que verifique se um número é um número primo ou não. Peça ao usuário para inserir um número e, em seguida, informe se é primo ou não.
+
+**Repetição:**
+
+5. Escreva um programa que calcule o fatorial de um número fornecido pelo usuário. Utilize um loop para fazer esse cálculo.
+
+6. Implemente um programa que solicite ao usuário uma sequência de números e, em seguida, encontre e imprima o segundo maior número na sequência.
+
+**Funções Anônimas:**
+
+7. Crie uma função anônima que receba uma lista de números e retorne uma nova lista contendo apenas os números pares da lista original.
+
+8. Escreva um programa que use uma função anônima para calcular a soma dos dígitos de um número inteiro inserido pelo usuário. Por exemplo, se o usuário inserir 12345, o programa deve retornar 15 (1+2+3+4+5).
+
+**Decisão e Repetição:**
+
+9. Implemente um jogo de adivinhação em que o computador pense em um número entre 1 e 1000, e o usuário tenha que adivinhar o número. O programa deve fornecer dicas como "maior" ou "menor" até que o usuário adivinhe corretamente.
+
+10. Crie um programa que simule uma conta bancária. Utilize classes e objetos para representar a conta. Permita ao usuário realizar operações como depósito, saque e consulta de saldo.
